@@ -33,5 +33,3 @@ if __name__ == "__main__":
     # Calcolo finale
     risultato_finale = resultato_1 * risultato_2
     print(f"Risultato finale (5 + 3)  * (4 - 2): {risultato_finale}")
-
-
